@@ -1,0 +1,15 @@
+crime_type,,action to be taken by another organisation,formal action is not in the public interest,further action is not in the public interest,further investigation is not in the public interest,investigation complete; no suspect identified,local resolution,offender given a caution,offender given a drugs possession warning,offender given penalty notice,suspect charged,suspect charged as part of another case,unable to prosecute suspect
+anti-social behaviour,1260059.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bicycle theft,14339.0,48.0,116.0,62.0,151.0,72193.0,408.0,108.0,0.0,1.0,1794.0,79.0,8297.0
+burglary,58438.0,253.0,909.0,508.0,561.0,292479.0,1595.0,989.0,4.0,2.0,24549.0,1507.0,59243.0
+criminal damage and arson,133871.0,2644.0,3786.0,3555.0,4134.0,497500.0,20322.0,10416.0,8.0,169.0,41756.0,145.0,230088.0
+drugs,60605.0,809.0,8779.0,9828.0,7427.0,16269.0,66702.0,14305.0,6489.0,1430.0,55745.0,18.0,34306.0
+other crime,46252.0,6865.0,4100.0,3472.0,16968.0,30558.0,2645.0,1539.0,3.0,19.0,19754.0,51.0,80984.0
+other theft,102815.0,1968.0,2379.0,855.0,3782.0,423309.0,5946.0,1818.0,1.0,15.0,9824.0,305.0,146364.0
+possession of weapons,18559.0,663.0,1758.0,1490.0,1624.0,14650.0,2667.0,3585.0,14.0,9.0,24671.0,2.0,32081.0
+public order,115024.0,5612.0,10283.0,4857.0,12406.0,279113.0,19808.0,8017.0,7.0,1279.0,61951.0,67.0,459773.0
+robbery,14004.0,109.0,187.0,194.0,90.0,36887.0,874.0,263.0,4.0,1.0,8346.0,36.0,28905.0
+shoplifting,88115.0,349.0,4661.0,1234.0,5850.0,312091.0,18359.0,3736.0,3.0,590.0,107982.0,2864.0,110909.0
+theft from the person,8833.0,170.0,124.0,56.0,196.0,47514.0,460.0,134.0,1.0,0.0,1041.0,15.0,15713.0
+vehicle crime,58778.0,366.0,642.0,248.0,605.0,414152.0,1048.0,590.0,5.0,8.0,14426.0,712.0,54088.0
+violence and sexual offences,638084.0,99816.0,25473.0,30171.0,35095.0,577328.0,75465.0,40709.0,59.0,233.0,230424.0,239.0,2428945.0
